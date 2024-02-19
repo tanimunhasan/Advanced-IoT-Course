@@ -1,1 +1,9 @@
+Before writing python code in rasberryPi make sure you have install the firebase on rasberryPi 
+---------------------------------------------------------------------------------------------------------
+To install firebase and google cloud storage use the following commands step by step in you Command prompt:
 
+$ sudo apt-get update
+$ sudo apt-get install python-pip python-dev ipython
+$ sudo pip install google-cloud-storage
+$ sudo pip install firebase
+$ sudo pip install python-firebase
